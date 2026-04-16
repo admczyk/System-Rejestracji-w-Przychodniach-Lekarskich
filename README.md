@@ -15,9 +15,11 @@ System umożliwia sprawniejsze zarządzanie informacjami o pacjentach, lekarzach
 - Do przychodni przypisani są lekarze oraz gabinety lekarskie.
 
 ## Model pojęciowy
-[fota]
+![Zdjęcie modelu pojęciowego](./img/model_pojeciowy.png)
+
 ## Model logiczny
-[fota]
+![Zdjęcie modelu logicznego](./img/model_logiczny.png)
+
 ## Model implementacyjny
 Model implementacyjny bazy danych zawarty jest w pliku o tej samej nazwie.
 
@@ -33,7 +35,7 @@ Model implementacyjny bazy danych zawarty jest w pliku o tej samej nazwie.
 
 ## Moduły systemu
 ### Formularz menu
-[fota]
+![Zdjęcie przedstawiające wygląd formularza menu](./img/formularz_menu.png)
 Pozwala użytkownikowi aplikacji na nawigowanie pomiędzy formularzami dostępnymi w aplikacji. Naciśnięcie przycisku powoduje przejście do danego formularza. 
 Każdy z tych formularzy zawiera następujące przyciski:
 #### Operacje na rekordach
@@ -53,3 +55,31 @@ Każdy z tych formularzy zawiera następujące przyciski:
 - Zamknij formularz - zamyka formularz
 
 ### Formularz lekarze
+![Zdjęcie przedstawiające wygląd formularza lekarze](./img/formularz_lekarze.png)
+
+### Formularz dużuru
+![Zdjęcie przedstawiające wygląd formularza dyżury](./img/formularz_dyzury.png)
+
+### Formularz wizyty
+![Zdjęcie przedstawiające wygląd formularza wizyty](./img/formularz_wizyty.png)
+
+### Formularz pacjenci
+![Zdjęcie przedstawiające wygląd formularza pacjenci](./img/formularz_pacjenci.png)
+
+### Formularz przychodnie
+![Zdjęcie przedstawiające wygląd formularza przychodnie](./img/formularz_przychodnie.png)
+
+### Formularz gabinety
+![Zdjęcie przedstawiające wygląd formularza gabinety](./img/formularz_gabinety.png)
+
+### Formularz lekarze w przychodniach
+![Zdjęcie przedstawiające wygląd formularza lekarze w przychodniach](./img/formularz_lekarze_w_przychodniach.png)
+
+### Formularz dzielnice
+![Zdjęcie przedstawiające wygląd formularza dzielnice](./img/formularz_dzielnice.png)
+
+## Autorzy
+Projekt został wykonany w ramach przedmiotu __Bazy Danych (SQL)__ przez:
+- Klaudia Adamczyk
+- Oliwia Latoszek
+- Kacper Grzeszyk
